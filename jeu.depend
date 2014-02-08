@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1355595700 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\curseur.c
+	"main.h"
+
+1357239471 d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\main.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+
+1357204651 d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\menu.h
+
+1357238213 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\démineur.c
+	"main.h"
+
+1357239523 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\fichier.c
+	"main.h"
+
+1357240122 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\main.c
+	"main.h"
+
+1357215064 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\menu.c
+	"main.h"
+
+1356809081 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\ressources.rc
+
+1356954790 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\tableau.c
+	"main.h"
+
+1357213224 source:d:\dorian\ece\projet\projet info\projet informatique-démineur\programme complet du jeu\version graphique\jeu\allegro.c
+	"main.h"
+
+1357216826 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\allegro.c
+	"main.h"
+
+1357243072 d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\main.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+
+1357208252 d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\menu.h
+
+1355599302 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\curseur.c
+	"main.h"
+
+1357241814 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\démineur.c
+	"main.h"
+
+1357243124 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\fichier.c
+	"main.h"
+
+1357244030 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\main.c
+	"main.h"
+
+1357218666 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\menu.c
+	"main.h"
+
+1356812682 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\ressources.rc
+
+1356958392 source:d:\dorian\ece\ing3\projet\projet info\démineur\programme complet du jeu\version graphique\jeu\tableau.c
+	"main.h"
+
